@@ -20,3 +20,4 @@ I am a developer with the most experience in backend, and some experience in fro
 ## 🧰 Interests
 - Penetration testing & cybersecurity
 - Home servers & self-hosting
+- Working with embedded hardware
