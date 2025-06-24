@@ -16,6 +16,7 @@ I am a developer with the most experience in backend, and some experience in fro
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Golang](https://img.shields.io/badge/-Go-79D4FD?logo=Go&logoColor=white)
 
 ## 🧰 Interests
 - Penetration testing & cybersecurity
